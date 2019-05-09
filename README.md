@@ -1,2 +1,0 @@
-# HooksSVGCanvas
-Created with CodeSandbox
